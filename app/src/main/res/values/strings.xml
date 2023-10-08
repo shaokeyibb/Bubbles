@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Bubbles</string>
+    <string name="blowing_bubbles">BLOWING</string>
+    <string name="pop_bubble">POP</string>
+    <string name="main_channel_name">Main notification</string>
+    <string name="normal_bubble_channel_name">Normal bubbles</string>
+    <string name="important_bubble_channel_name">Important bubbles</string>
+    <string name="main_notification_title">Create bubble</string>
+    <string name="main_notification_text">Click \"BLOWING\" and write something to create a bubble</string>
+    <string name="require_notification_permission_toast">Please grant notification permission first.</string>
+    <string name="blowing_label">Type something...</string>
+    <string name="successfully_running_title">Successfully running</string>
+    <string name="successfully_running_text">Bubbles is running in the background.</string>
+    <string name="action_required_title">Action Required</string>
+    <string name="action_required_text">Please grant notification permission and restart the app.</string>
+</resources>

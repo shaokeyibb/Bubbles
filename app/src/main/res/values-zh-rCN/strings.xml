@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="blowing_bubbles">吹泡泡</string>
+    <string name="pop_bubble">戳泡泡</string>
+    <string name="main_channel_name">主要通知</string>
+    <string name="normal_bubble_channel_name">普通泡泡通知</string>
+    <string name="important_bubble_channel_name">重要泡泡通知</string>
+    <string name="main_notification_title">创建泡泡</string>
+    <string name="main_notification_text">点击“吹泡泡”并写些什么以创建一个泡泡</string>
+    <string name="require_notification_permission_toast">请先给予通知权限，然后再使用本 App</string>
+    <string name="blowing_label">写点什么...</string>
+    <string name="successfully_running_title">正在运行</string>
+    <string name="successfully_running_text">Bubbles 已在后台运行</string>
+    <string name="action_required_title">需要操作</string>
+    <string name="action_required_text">请先给予应用通知权限，然后重启应用</string>
+</resources>
